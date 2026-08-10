@@ -1,16 +1,19 @@
-## Hi there 👋
+# ABOUT Me ✨
 
-<!--
-**CeCe-prog-dev/CeCe-prog-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my tech-lab 👩🏾‍🔬! I’m Celeste, a final year student in **Enconmics and Statistics Bachelor’s degree**. I’m interested in **Tech** ( Data Science and ML ), **Human Sciences** ( Economics and Anthropology ) and **Arts** 🎭. Here, I’m seeking to combine my interest for Data and Computer Science with my passions !
 
-Here are some ideas to get you started:
+**Enjoy the read !** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏾‍💻 Technical Skills
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🛠️ Tools
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
