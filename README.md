@@ -1,6 +1,6 @@
 # ABOUT Me ✨
 
-Welcome to my tech-lab 👩🏾‍🔬! I’m Celeste, a final year student in **Enconmics and Statistics Bachelor’s degree**. I’m interested in **Tech** ( Data Science and ML ), **Human Sciences** ( Economics and Anthropology ) and **Arts** 🎭. Here, I’m seeking to combine my interest for Data and Computer Science with my passions !
+Welcome to my tech-lab 👩🏾‍🔬! I’m Celeste, a final year student in **Economics and Statistics Bachelor’s degree**. I’m interested in **Tech** ( Data Science and ML ), **Human Sciences** ( Economics and Anthropology ) and **Arts** 🎭. Here, I’m seeking to combine my interest for Data and Computer Science with my passions !
 
 **Enjoy the read !** 
 
